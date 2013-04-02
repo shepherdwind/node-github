@@ -2168,7 +2168,7 @@
             "params": {
                 "$user": null,
                 "$repo": null,
-                "org": {
+                "organization": {
                     "type": "String",
                     "required": false,
                     "validation": "",
